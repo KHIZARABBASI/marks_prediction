@@ -1,9 +1,9 @@
 import sys
 
-def error_message_details(error: Exception, error_detail: sys ):
+def error_message_details(error, error_detail: sys ):
     _ , _ , exc_tb = error_detail.exc_info()
     file_name = exc_tb.tb_frame.f_code.co_filename
-    error_message = "Error occurred in python script: [{0}] at line: [{1}] with error message: [{2}] and error type is [{error_type}]".format(file_name, exc_tb.tb_lineno, str(error))
+    error_message = "Error occurred in python script: [{0}] at line: [{1}] with error message: [{2}] ".format(file_name, exc_tb.tb_lineno, str(error))
     return error_message
 
 

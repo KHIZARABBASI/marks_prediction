@@ -55,3 +55,13 @@ To run this project locally, follow these steps:
 2. **Train and evaluate models:** The notebook provides code for training different machine learning models. You can modify the dataset or algorithm to see different outcomes.
 
 3. **Make Predictions:** After training, you can use the model to predict student marks by providing input data.
+
+## Technologies Used
+
+- **Python**: Core programming language for building the project.
+- **Jupyter Notebook**: Environment for running and experimenting with the code.
+- **pandas**: Library for data manipulation and analysis.
+- **scikit-learn**: Library used for machine learning algorithms (training and evaluating models).
+- **matplotlib**: Visualization library used for plotting graphs.
+- **seaborn**: Advanced visualization library built on top of `matplotlib` for creating more informative and attractive statistical graphics.
+

@@ -59,9 +59,10 @@ To run this project locally, follow these steps:
 ## Technologies Used
 
 - **Python**: Core programming language for building the project.
-- **Jupyter Notebook**: Environment for running and experimenting with the code.
-- **pandas**: Library for data manipulation and analysis.
-- **scikit-learn**: Library used for machine learning algorithms (training and evaluating models).
-- **matplotlib**: Visualization library used for plotting graphs.
-- **seaborn**: Advanced visualization library built on top of `matplotlib` for creating more informative and attractive statistical graphics.
+- **Libraries**:
+   - **Jupyter Notebook**: Environment for running and experimenting with the code.
+   - **pandas**: Library for data manipulation and analysis.
+   - **scikit-learn**: Library used for machine learning algorithms (training and evaluating models).
+   - **matplotlib**: Visualization library used for plotting graphs.
+   - **seaborn**: Advanced visualization library built on top of `matplotlib` for creating more informative and attractive statistical graphics.
 

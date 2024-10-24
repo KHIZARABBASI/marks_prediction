@@ -37,3 +37,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/KHIZARABBASI/marks_prediction.git
    cd marks_prediction
+2. **Create a virtual environment (optional but recommended):** 
+   ```bash
+   python -m venv venv
+   source venv/bin/activate

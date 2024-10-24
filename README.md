@@ -45,4 +45,13 @@ To run this project locally, follow these steps:
    ```bash
    pip install -r requirements.txt
 4. **Download the dataset:** Ensure you have the dataset for student marks (either load it from the repository or your own dataset). Place it in the appropriate folder in the project directory.
-   
+
+
+## Usage
+1. **Run the Jupyter Notebook**
+   ```bash
+   Jupyter Notebook
+
+2. **Train and evaluate models:** The notebook provides code for training different machine learning models. You can modify the dataset or algorithm to see different outcomes.
+
+3. **Make Predictions:** After training, you can use the model to predict student marks by providing input data.

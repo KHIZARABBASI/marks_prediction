@@ -1,6 +1,7 @@
 # Marks Prediction
 
-![Project Demo](https://youtu.be/6WJKKllwiB4?si=RMJcU6J_Tw_Lqtk0)
+[![Watch the video](link_to_your_image.png)](https://youtu.be/eDlBMqVAWXo?si=ultF_Cpl8IYdh8QV)
+
 
 This project aims to predict students' marks based on various input features using machine learning algorithms. The system helps educators and institutions predict students' academic performance and identify at-risk students to provide early intervention.
 

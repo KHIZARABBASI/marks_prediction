@@ -41,3 +41,8 @@ To run this project locally, follow these steps:
    ```bash
    python -m venv venv
    source venv/bin/activate
+3. **Install dependencies:** Make sure you have Python 3 installed, then run:
+   ``bash
+   pip install -r requirements.txt
+4. **Download the dataset:** Ensure you have the dataset for student marks (either load it from the repository or your own dataset). Place it in the appropriate folder in the project directory.
+   

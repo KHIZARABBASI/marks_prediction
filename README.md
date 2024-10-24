@@ -2,7 +2,7 @@
 
 ## Project Screenshots
 
-![Project Demo](https://github.com/KHIZARABBASI/marks_prediction/blob/main/demos/screenshot(78).png)
+![Project Demo](https://github.com/KHIZARABBASI/marks_prediction/blob/main/demos/Screenshot(78).png)
 ![Project Demo](https://github.com/KHIZARABBASI/marks_prediction/blob/main/demos/screenshot(79).png)
 ![Project Demo](https://github.com/KHIZARABBASI/marks_prediction/blob/main/demos/screenshot(80).png)
 

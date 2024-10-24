@@ -1,6 +1,6 @@
 # Marks Prediction
 
-[![Watch the video](https://img.youtube.com/vi/eDlBMqVAWXo/0.jpg)](https://github.com/KHIZARABBASI/marks_prediction/blob/main/demos/project_demo.mp4)
+[![Watch the video](https://github.com/KHIZARABBASI/marks_prediction/blob/main/demos/project_demo.jpg)](https://github.com/KHIZARABBASI/marks_prediction/blob/main/demos/project_demo.jpg)
 
 
 

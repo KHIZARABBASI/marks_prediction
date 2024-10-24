@@ -8,10 +8,7 @@ This project aims to predict students' marks based on various input features usi
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies Used](#technologies-used)<!-- - [Dataset](#dataset)
-- [Model Performance](#model-performance)
-- [Contributing](#contributing)
-- [License](#license) -->
+- [Technologies Used](#technologies-used)
 - [Contact](#contact)
 
 ## Project Overview
